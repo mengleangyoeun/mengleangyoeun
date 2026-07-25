@@ -59,16 +59,17 @@
 
 <div align="center">
 
-<!-- Main Stats -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mengleangyoeun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<!-- Streak -->
-<img height="160" src="https://streak-stats.demolab.com?user=mengleangyoeun&theme=tokyonight&hide_border=true" />
+<!-- Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mengleangyoeun&theme=tokyonight" />
 
 <br/>
 
-<!-- Top Languages -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengleangyoeun&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mengleangyoeun&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mengleangyoeun&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mengleangyoeun&theme=tokyonight" />
 
 </div>
 ---
