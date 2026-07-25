@@ -62,11 +62,12 @@ Full-stack photography platform with CMS admin panel for dynamic content managem
 <table align="center">
 <tr>
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mengleangyoeun&theme=tokyonight" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mengleangyoeun&theme=tokyonight" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mengleangyoeun&theme=tokyonight" /></td>
 </tr>
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mengleangyoeun&theme=tokyonight" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mengleangyoeun&theme=tokyonight" /></td>
+<td colspan="2" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mengleangyoeun&theme=tokyonight" />
+</td>
 </tr>
 </table>
 
@@ -81,7 +82,7 @@ Full-stack photography platform with CMS admin panel for dynamic content managem
   <a href="https://github.com/mengleangyoeun">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/yourfavoriteeunc">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
