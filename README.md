@@ -58,7 +58,9 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mengleangyoeun&theme=tokyonight" />
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mengleangyoeun&theme=tokyonight" />
+
 </div>
 ---
 
