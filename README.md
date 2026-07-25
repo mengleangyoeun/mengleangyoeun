@@ -50,7 +50,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,mongodb,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,mongodb,git,github,linux,vscode,claude" />
 
 </p>
 
