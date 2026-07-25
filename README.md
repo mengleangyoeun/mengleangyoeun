@@ -1,18 +1,51 @@
-# 👋 Hi, I'm Mengleang Yoeun
+# 👋 Hi, I'm Yoeun Mengleang
 
-🚀 Full-Stack Developer
-
-I’m a passionate full-stack developer focused on building scalable, user-friendly web applications. I enjoy turning complex problems into clean, efficient solutions and continuously learning new technologies to improve my craft.
+💻 Full-Stack Developer (Web)
+🚀 Passionate about building real-world applications & modern tech systems
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 💼 Role: Full-Stack Developer
-* 🌍 Focus: Modern web applications
-* ⚡ Strengths: Clean code, performance optimization, and problem-solving
-* 📚 Currently learning: Advanced backend architecture & cloud deployment
-* 🤝 Open to: Collaboration, freelance, and full-time opportunities
+I'm a Software Engineering student and aspiring full-stack developer based in Phnom Penh, Cambodia. I enjoy building web applications that solve real problems and continuously improving my skills through hands-on projects.
+
+I’m especially interested in:
+
+* 🌐 Full-stack web development
+* 🤖 AI-assisted development & tools
+* 🔐 Cybersecurity & Linux systems
+
+I’m currently looking for opportunities to gain real-world experience and grow as a developer in a professional environment.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Information Technology & Science (Software Engineering)**
+BELTEI International University
+📅 Expected Graduation: July 2026
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Youl Chet 21 – Mental Health Platform
+
+🌐 https://www.youlchet21.help
+
+* Built a web platform focused on mental health counselling
+* 🏆 **1st Runner-Up – Youth21 2025**
+* Theme: *Technopreneurship: Innovation for Sustainability*
+
+---
+
+### 📸 Photography Portfolio Platform
+
+🌐 https://rithychanvirak.com
+
+* Full-stack portfolio website with CMS admin panel
+* Built with: **Next.js, Supabase, TypeScript, Cloudinary, Vercel**
+* Designed for dynamic content management and performance
 
 ---
 
@@ -22,63 +55,54 @@ I’m a passionate full-stack developer focused on building scalable, user-frien
 
 * HTML, CSS, JavaScript
 * React / Next.js
-* Tailwind CSS / Bootstrap
 
 **Backend**
 
-* Node.js / Express
-* REST APIs
+* Node.js (basic)
+* API development
 
-**Database**
+**Database & Tools**
 
-* MongoDB / MySQL / PostgreSQL
-
-**Tools & Others**
-
+* Supabase
 * Git & GitHub
-* Docker (basic)
-* CI/CD basics
+* Linux (basics)
+
+**Other**
+
+* AI-assisted development tools
+* Cloud deployment (Vercel)
 
 ---
 
-## 🚀 Featured Projects
+## 💡 Strengths
 
-### 🔹 Web Application Projects
-
-* 🧾 **[Project Name 1]**
-  A scalable web app that solves [problem].
-  **Tech:** React, Node.js, MongoDB
-
-* 📊 **[Project Name 2]**
-  A dynamic platform for [use case].
-  **Tech:** Next.js, Express, PostgreSQL
-
-* 🛒 **[Project Name 3]**
-  Full-featured application with authentication and APIs.
-  **Tech:** MERN Stack
+* 🔍 Problem-solving mindset
+* 📚 Fast learner & self-driven
+* 🤝 Team collaboration
+* ⚡ Adaptable to new technologies
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=mengleangyoeun\&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengleangyoeun\&layout=compact)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
-* 💼 LinkedIn: [Your LinkedIn URL]
-* 🌐 Portfolio: [Your Website]
-* 📧 Email: [[your@email.com](mailto:your@email.com)]
+📧 Email: [mengleangyoeun24@gmail.com](mailto:mengleangyoeun24@gmail.com)
+📱 Phone: +855 89 246 000
+🌍 Location: Phnom Penh, Cambodia
+🔗 GitHub: https://github.com/mengleangyoeun
 
 ---
 
 ## ⚡ Fun Fact
 
-I love building projects that people actually use and solving real-world problems with code.
+I enjoy exploring Linux, customizing environments (ricing), and experimenting with AI tools and agents.
 
 ---
 
-⭐️ *Feel free to check out my repositories and connect with me!*
+⭐️ *Let’s build something impactful together!*
