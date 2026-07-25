@@ -10,16 +10,9 @@
 ## 🚀 About Me
 
 * 🎓 Software Engineering student (Graduating 2026)
-* 🌐 Building modern full-stack web applications
+* 🌐 Focused on full-stack web applications
 * 🧠 Interested in AI tools, Linux & cybersecurity
-* ⚡ Fast learner, problem solver, builder mindset
-
----
-
-## 🏆 Highlight
-
-🥈 **1st Runner-Up – Youth21 2025**
-🧠 *Youl Chet 21 – Mental Health Platform*
+* ⚡ Fast learner & problem solver
 
 ---
 
@@ -31,24 +24,55 @@
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img height="130" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mengleangyoeun&theme=tokyonight" />
-  <img height="130" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mengleangyoeun&theme=tokyonight" />
-  <img height="130" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mengleangyoeun&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Projects
 
-* 🧠 **Youl Chet 21** → https://www.youlchet21.help
-* 📸 **Portfolio CMS** → https://rithychanvirak.com
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🧠 Youl Chet 21
+
+🔗 https://www.youlchet21.help
+
+Mental health counselling platform focused on accessibility and real impact.
+
+🥈 **1st Runner-Up – Youth21 2025**
+*Technopreneurship: Innovation for Sustainability*
+
+</td>
+
+<td width="50%">
+
+### 📸 Portfolio CMS
+
+🔗 https://rithychanvirak.com
+
+Full-stack photography platform with CMS admin panel for dynamic content management.
+
+**Tech:** Next.js · Supabase · TypeScript · Cloudinary · Vercel
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Insights
+
+<table align="center">
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mengleangyoeun&theme=tokyonight" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mengleangyoeun&theme=tokyonight" /></td>
+</tr>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mengleangyoeun&theme=tokyonight" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mengleangyoeun&theme=tokyonight" /></td>
+</tr>
+</table>
+
+---
+
+## 📫 Connect
 
 <p align="center">
   <a href="mailto:mengleangyoeun24@gmail.com">
@@ -56,6 +80,9 @@
   </a>
   <a href="https://github.com/mengleangyoeun">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
