@@ -65,8 +65,7 @@
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengleangyoeun&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mengleangyoeun&theme=tokyonight" />
 </div>
 ---
 
