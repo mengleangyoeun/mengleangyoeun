@@ -59,13 +59,17 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mengleangyoeun&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<!-- Main Stats -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mengleangyoeun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="150" src="https://streak-stats.demolab.com?user=mengleangyoeun&theme=tokyonight&hide_border=true" />
+<!-- Streak -->
+<img height="160" src="https://streak-stats.demolab.com?user=mengleangyoeun&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mengleangyoeun&theme=tokyonight" />
+<!-- Top Languages -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengleangyoeun&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 ---
 
