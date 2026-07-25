@@ -9,23 +9,6 @@
 
 ---
 
-## 🌐 About Me
-
-💡 Software Engineering student passionate about building real-world web applications
-🎯 Focused on **Full-Stack Development + AI tools + Modern Tech**
-🚀 Fast learner, problem solver, and builder mindset
-
-📍 Phnom Penh, Cambodia
-
----
-
-## 🏆 Achievements
-
-🥈 **1st Runner-Up – Youth21 2025**
-🧠 Project: *Youl Chet 21 – Mental Health Platform*
-
----
-
 ## 🚀 Featured Projects
 
 ### 🧠 Youl Chet 21
@@ -55,15 +38,6 @@
 </p>
 
 ---
-## 📊 GitHub Insights
-
-<div align="center">
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mengleangyoeun&theme=tokyonight" />
-
-</div>
-
----
 ## 🧰 Tools & Interests
 
 * 🤖 AI-assisted development
@@ -77,7 +51,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mengleangyoeun&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
----
-
-⭐️ *Check out my repositories and let’s build something impactful together!*
