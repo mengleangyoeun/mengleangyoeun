@@ -30,31 +30,32 @@
 <tr>
 <td width="50%">
 
-### 🧠 Youl Chet 21
+### 🧠 Youl Chet 21  
+🔗 https://www.youlchet21.help  
 
-🔗 https://www.youlchet21.help
+Mental health counselling platform focused on accessibility and real impact.  
 
-Mental health counselling platform focused on accessibility and real impact.
+🥈 **1st Runner-Up – Youth21 2025**  
+*Technopreneurship: Innovation for Sustainability*  
 
-🥈 **1st Runner-Up – Youth21 2025**
-*Technopreneurship: Innovation for Sustainability*
+⚡ Built using **AI-assisted (vibe coding)** to rapidly prototype, refine UX, and ship faster.
 
 </td>
 
 <td width="50%">
 
-### 📸 Portfolio CMS
+### 📸 Portfolio CMS  
+🔗 https://rithychanvirak.com  
 
-🔗 https://rithychanvirak.com
+Full-stack photography platform with CMS admin panel for dynamic content management.  
 
-Full-stack photography platform with CMS admin panel for dynamic content management.
+**Tech:** Next.js · Supabase · TypeScript · Cloudinary · Vercel  
 
-**Tech:** Next.js · Supabase · TypeScript · Cloudinary · Vercel
+⚡ Developed with **AI-assisted workflow (vibe coding)** for faster iteration and cleaner architecture.
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Insights
