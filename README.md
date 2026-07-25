@@ -65,8 +65,6 @@ Full-stack photography platform with CMS admin panel for dynamic content managem
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mengleangyoeun&theme=tokyonight" /></td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mengleangyoeun&theme=tokyonight" />
 </td>
 </tr>
 </table>
