@@ -58,19 +58,7 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-
-<!-- Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mengleangyoeun&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mengleangyoeun&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mengleangyoeun&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mengleangyoeun&theme=tokyonight" />
-
 </div>
 ---
 
