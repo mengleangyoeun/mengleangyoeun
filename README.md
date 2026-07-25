@@ -1,108 +1,108 @@
-# 👋 Hi, I'm Yoeun Mengleang
+<!-- 🔥 PROFILE HEADER -->
 
-💻 Full-Stack Developer (Web)
-🚀 Passionate about building real-world applications & modern tech systems
+<h1 align="center">Hi 👋, I'm Yoeun Mengleang</h1>
+<h3 align="center">🚀 Full-Stack Developer | Web Applications | Cambodia 🇰🇭</h3>
 
----
-
-## 🧑‍💻 About Me
-
-I'm a Software Engineering student and aspiring full-stack developer based in Phnom Penh, Cambodia. I enjoy building web applications that solve real problems and continuously improving my skills through hands-on projects.
-
-I’m especially interested in:
-
-* 🌐 Full-stack web development
-* 🤖 AI-assisted development & tools
-* 🔐 Cybersecurity & Linux systems
-
-I’m currently looking for opportunities to gain real-world experience and grow as a developer in a professional environment.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Web+Developer;AI-assisted+Builder;Next.js+%7C+Supabase+%7C+TypeScript;Always+learning+new+tech" />
+</p>
 
 ---
 
-## 🎓 Education
+## 🌐 About Me
 
-**Bachelor of Information Technology & Science (Software Engineering)**
-BELTEI International University
-📅 Expected Graduation: July 2026
+💡 Software Engineering student passionate about building real-world web applications
+🎯 Focused on **Full-Stack Development + AI tools + Modern Tech**
+🚀 Fast learner, problem solver, and builder mindset
+
+📍 Phnom Penh, Cambodia
+
+---
+
+## 🏆 Achievements
+
+🥈 **1st Runner-Up – Youth21 2025**
+🧠 Project: *Youl Chet 21 – Mental Health Platform*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Youl Chet 21 – Mental Health Platform
+### 🧠 Youl Chet 21
 
-🌐 https://www.youlchet21.help
+🔗 https://www.youlchet21.help
 
-* Built a web platform focused on mental health counselling
-* 🏆 **1st Runner-Up – Youth21 2025**
-* Theme: *Technopreneurship: Innovation for Sustainability*
+> Mental health counselling platform focused on accessibility and impact
 
 ---
 
 ### 📸 Photography Portfolio Platform
 
-🌐 https://rithychanvirak.com
+🔗 https://rithychanvirak.com
 
-* Full-stack portfolio website with CMS admin panel
-* Built with: **Next.js, Supabase, TypeScript, Cloudinary, Vercel**
-* Designed for dynamic content management and performance
+> Full-stack CMS-based portfolio system
+
+**Tech:** Next.js · Supabase · TypeScript · Cloudinary · Vercel
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+<p align="center">
 
-* HTML, CSS, JavaScript
-* React / Next.js
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,mongodb,git,github,linux,vscode" />
 
-**Backend**
-
-* Node.js (basic)
-* API development
-
-**Database & Tools**
-
-* Supabase
-* Git & GitHub
-* Linux (basics)
-
-**Other**
-
-* AI-assisted development tools
-* Cloud deployment (Vercel)
-
----
-
-## 💡 Strengths
-
-* 🔍 Problem-solving mindset
-* 📚 Fast learner & self-driven
-* 🤝 Team collaboration
-* ⚡ Adaptable to new technologies
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mengleangyoeun\&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengleangyoeun\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mengleangyoeun&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mengleangyoeun&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengleangyoeun&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 🧰 Tools & Interests
 
-📧 Email: [mengleangyoeun24@gmail.com](mailto:mengleangyoeun24@gmail.com)
-📱 Phone: +855 89 246 000
-🌍 Location: Phnom Penh, Cambodia
-🔗 GitHub: https://github.com/mengleangyoeun
-
----
-
-## ⚡ Fun Fact
-
-I enjoy exploring Linux, customizing environments (ricing), and experimenting with AI tools and agents.
+* 🤖 AI-assisted development
+* 🐧 Linux & customization (ricing)
+* 🔐 Cybersecurity basics
+* ☁️ Cloud deployment (Vercel)
 
 ---
 
-⭐️ *Let’s build something impactful together!*
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:mengleangyoeun24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mengleangyoeun">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## ⚡ Dev Quote
+
+> “Build fast. Learn faster. Improve always.”
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mengleangyoeun&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐️ *Check out my repositories and let’s build something impactful together!*
