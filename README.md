@@ -56,8 +56,8 @@ Full-stack photography platform with CMS admin panel for dynamic content managem
 </td>
 </tr>
 </table>
----
 
+---
 ## 📊 GitHub Insights
 
 <table align="center">
@@ -66,8 +66,8 @@ Full-stack photography platform with CMS admin panel for dynamic content managem
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mengleangyoeun&theme=tokyonight" /></td>
 </tr>
 </table>
----
 
+---
 ## 📫 Connect
 
 <p align="center">
