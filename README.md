@@ -77,7 +77,7 @@ Full-stack photography platform with CMS admin panel for dynamic content managem
   <a href="https://github.com/mengleangyoeun">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/yourfavoriteeunc">
+  <a href="https://instagram.com/yourfavoriteunc.json">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
